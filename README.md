@@ -7,7 +7,7 @@ Este sistema visa gerenciar os processos operacionais de uma farmácia, incluind
 * Isabele Moura Bini
 * Leilla Mendes da Silva
 * Nicoly da Silva de Souza
-* Sthefanny Vitoria da Costa Rosa
+* Stefanny Vitoria da Costa Rosa
 
 ## Entregas
 As documentações detalhadas encontram-se nas pastas correspondentes a cada etapa do projeto.
