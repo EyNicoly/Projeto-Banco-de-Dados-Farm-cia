@@ -18,6 +18,8 @@ erDiagram
     COMPRA ||--o| RECEITA : "exige"
     RECEITA }|--|| ANVISA : "monitora"
     FUNCIONARIO ||--o{ SERVICOS : "presta"
+    PESSOA ||--o| FUNCIONARIO : "especializa"
+    PESSOA ||--o| CLIENTE : "especializa"
 
     ON_LINE {
         int ID_Compra PK
