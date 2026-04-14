@@ -74,6 +74,17 @@ erDiagram
         string nome
     }
     COMPRA {
-        int id_compra PK
-        float valor_total
+        int ID_Compra PK
+        datetime Data_Hora
+        float Valor_Final
+        float Desconto
+        string Forma_Pagamento
+    }
+    PESSOA {
+        int ID_Pessoa PK
+        string Nome
+        string CPF_RG
+        string Telefone
+        string CEP
+        string Genero
     }
